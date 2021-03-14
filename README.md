@@ -12,9 +12,9 @@
 
 ## 📑 Tabela de Conteúdos
 
-- [Descrição do Exercício](#-Descrição do Exercício)
-- [Docker Hub - Imagem Go Hello World](#-Docker Hub - Imagem Go Hello World)
-- [Sobre o Curso Full Cycle Development](#-Sobre o Curso Full Cycle Development)
+- [Descrição do Exercício](#-Descrição-do-Exercício)
+- [Docker Hub - Imagem Go Hello World](#-Docker-Hub-Imagem-Go-Hello-World)
+- [Sobre o Curso Full Cycle Development](#-Sobre-o-Curso-Full-Cycle-Development)
 - [Screenshots](#-Screenshots)
 - [Status do projeto](#-Status-do-projeto)
 - [Tecnologias utilizadas](#-Tecnologias-utilizadas)
