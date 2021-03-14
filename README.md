@@ -14,7 +14,7 @@
 
 - [Descrição do Exercício](#-Descrição do Exercício)
 - [Docker Hub - Imagem Go Hello World](#-Docker Hub - Imagem Go Hello World)
-- [Sobre](#-Sobre o Curso Full Cycle Development)
+- [Sobre o Curso Full Cycle Development](#-Sobre o Curso Full Cycle Development)
 - [Screenshots](#-Screenshots)
 - [Status do projeto](#-Status-do-projeto)
 - [Tecnologias utilizadas](#-Tecnologias-utilizadas)
@@ -98,6 +98,7 @@ git clone https://github.com/aimatama/CodeEdu-FullCycle2-Docker-DesafioGo.git
 # Execute o container da imagem criada
 > docker run aimatama/codeedu-fullcycle2-docker-desafio-go
 
+```
 ---
 
 ## 📜 Licença
