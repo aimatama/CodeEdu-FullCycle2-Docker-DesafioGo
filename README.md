@@ -12,8 +12,8 @@
 
 ## 📑 Tabela de Conteúdos
 
-- [Descrição do Exercício](#-Descrição-do-Exercício)
 - [Docker Hub - Imagem Go Hello World](#-Docker-Hub---Imagem-Go-Hello-World)
+- [Descrição do Exercício](#-Descrição-do-Exercício)
 - [Sobre o Curso Full Cycle Development](#-Sobre-o-Curso-Full-Cycle-Development)
 - [Screenshots](#-Screenshots)
 - [Status do projeto](#-Status-do-projeto)
@@ -21,6 +21,12 @@
 - [Como executar o projeto](#-Como-executar-o-projeto)
 - [Licença](#-Licença)
 - [Contato](#-Contato)
+
+---
+
+## 💬 Docker Hub - Imagem Go Hello World
+
+A imagem finalizada criada na entrega do exercício está disponível no DockerHub (https://hub.docker.com/repository/docker/aimatama/codeedu-fullcycle2-docker-desafio-go).
 
 ---
 
@@ -42,12 +48,6 @@ Lembrando que a Go Lang possui imagens oficiais prontas, vale a pena consultar o
 Dica: No vídeo de introdução sobre o Docker quando falamos sobre o sistema de arquivos em camadas, apresento uma imagem "raiz", talvez seja uma boa utilizá-la.
 
 Divirta-se.
-
----
-
-## 💬 Docker Hub - Imagem Go Hello World
-
-A imagem finalizada criada na entrega do exercício está disponível no DockerHub (https://hub.docker.com/repository/docker/aimatama/codeedu-fullcycle2-docker-desafio-go).
 
 ---
 
